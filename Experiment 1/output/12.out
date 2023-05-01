@@ -1,0 +1,91 @@
+The size of the training data set is 9601
+The size of the training data set is 9601
+Start training
+Epoch [1/7], Step [10/76], Loss: 2.2708
+Epoch [1/7], Step [20/76], Loss: 1.9269
+Epoch [1/7], Step [30/76], Loss: 2.0221
+Epoch [1/7], Step [40/76], Loss: 1.6770
+Epoch [1/7], Step [50/76], Loss: 1.8120
+Epoch [1/7], Step [60/76], Loss: 1.8991
+Epoch [1/7], Step [70/76], Loss: 2.1560
+Total time for epoch 1/7 = 171.854573 seconds
+Start validation
+Validation accuracy is 15.113009061556088%
+Start training
+Epoch [2/7], Step [10/76], Loss: 2.0153
+Epoch [2/7], Step [20/76], Loss: 1.7047
+Epoch [2/7], Step [30/76], Loss: 1.8964
+Epoch [2/7], Step [40/76], Loss: 1.5492
+Epoch [2/7], Step [50/76], Loss: 1.6573
+Epoch [2/7], Step [60/76], Loss: 1.8638
+Epoch [2/7], Step [70/76], Loss: 1.9759
+Total time for epoch 2/7 = 169.255837 seconds
+The average of the epoch train time so far is 169.255837
+The stdev of the epoch train time so far is 0.0
+Start validation
+Validation accuracy is 17.5502551817519%
+Start training
+Epoch [3/7], Step [10/76], Loss: 2.0004
+Epoch [3/7], Step [20/76], Loss: 1.6122
+Epoch [3/7], Step [30/76], Loss: 1.8078
+Epoch [3/7], Step [40/76], Loss: 1.4554
+Epoch [3/7], Step [50/76], Loss: 1.5704
+Epoch [3/7], Step [60/76], Loss: 1.8131
+Epoch [3/7], Step [70/76], Loss: 1.8513
+Total time for epoch 3/7 = 162.322109 seconds
+The average of the epoch train time so far is 165.788973
+The stdev of the epoch train time so far is 3.466864000000001
+Start validation
+Validation accuracy is 13.592334131861264%
+Start training
+Epoch [4/7], Step [10/76], Loss: 1.7988
+Epoch [4/7], Step [20/76], Loss: 1.5618
+Epoch [4/7], Step [30/76], Loss: 1.7644
+Epoch [4/7], Step [40/76], Loss: 1.3990
+Epoch [4/7], Step [50/76], Loss: 1.4868
+Epoch [4/7], Step [60/76], Loss: 1.7224
+Epoch [4/7], Step [70/76], Loss: 1.7506
+Total time for epoch 4/7 = 177.066233 seconds
+The average of the epoch train time so far is 169.54805966666666
+The stdev of the epoch train time so far is 6.022809073127994
+Start validation
+Validation accuracy is 21.19570878033538%
+Start training
+Epoch [5/7], Step [10/76], Loss: 1.6765
+Epoch [5/7], Step [20/76], Loss: 1.5195
+Epoch [5/7], Step [30/76], Loss: 1.7075
+Epoch [5/7], Step [40/76], Loss: 1.3086
+Epoch [5/7], Step [50/76], Loss: 1.4323
+Epoch [5/7], Step [60/76], Loss: 1.6520
+Epoch [5/7], Step [70/76], Loss: 1.6828
+Total time for epoch 5/7 = 173.865114 seconds
+The average of the epoch train time so far is 170.62732325000002
+The stdev of the epoch train time so far is 5.5407672298557324
+Start validation
+Validation accuracy is 20.37287782522654%
+Start training
+Epoch [6/7], Step [10/76], Loss: 1.6064
+Epoch [6/7], Step [20/76], Loss: 1.4632
+Epoch [6/7], Step [30/76], Loss: 1.6485
+Epoch [6/7], Step [40/76], Loss: 1.2120
+Epoch [6/7], Step [50/76], Loss: 1.3625
+Epoch [6/7], Step [60/76], Loss: 1.6353
+Epoch [6/7], Step [70/76], Loss: 1.6430
+Total time for epoch 6/7 = 183.353383 seconds
+The average of the epoch train time so far is 173.17253520000003
+The stdev of the epoch train time so far is 7.104399811246953
+Start validation
+Validation accuracy is 20.73742318508489%
+Start training
+Epoch [7/7], Step [10/76], Loss: 1.5370
+Epoch [7/7], Step [20/76], Loss: 1.4234
+Epoch [7/7], Step [30/76], Loss: 1.5819
+Epoch [7/7], Step [40/76], Loss: 1.1557
+Epoch [7/7], Step [50/76], Loss: 1.3135
+Epoch [7/7], Step [60/76], Loss: 1.5681
+Epoch [7/7], Step [70/76], Loss: 1.5483
+Total time for epoch 7/7 = 177.195431 seconds
+The average of the epoch train time so far is 173.84301783333333
+The stdev of the epoch train time so far is 6.656436637299228
+Start validation
+Validation accuracy is 20.54994271430059%

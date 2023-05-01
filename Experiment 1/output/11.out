@@ -1,0 +1,147 @@
+The size of the training data set is 9601
+The size of the training data set is 9601
+Start training
+Epoch [1/7], Step [10/151], Loss: 2.3741
+Epoch [1/7], Step [20/151], Loss: 2.1693
+Epoch [1/7], Step [30/151], Loss: 2.0735
+Epoch [1/7], Step [40/151], Loss: 1.9226
+Epoch [1/7], Step [50/151], Loss: 2.3268
+Epoch [1/7], Step [60/151], Loss: 1.7722
+Epoch [1/7], Step [70/151], Loss: 2.2270
+Epoch [1/7], Step [80/151], Loss: 1.7768
+Epoch [1/7], Step [90/151], Loss: 2.0295
+Epoch [1/7], Step [100/151], Loss: 1.8278
+Epoch [1/7], Step [110/151], Loss: 1.8815
+Epoch [1/7], Step [120/151], Loss: 1.7073
+Epoch [1/7], Step [130/151], Loss: 1.9453
+Epoch [1/7], Step [140/151], Loss: 2.0998
+Epoch [1/7], Step [150/151], Loss: 2.4717
+Total time for epoch 1/7 = 177.293434 seconds
+Start validation
+Validation accuracy is 14.67555462972607%
+Start training
+Epoch [2/7], Step [10/151], Loss: 2.2439
+Epoch [2/7], Step [20/151], Loss: 1.8427
+Epoch [2/7], Step [30/151], Loss: 1.7571
+Epoch [2/7], Step [40/151], Loss: 1.7131
+Epoch [2/7], Step [50/151], Loss: 1.9656
+Epoch [2/7], Step [60/151], Loss: 1.6195
+Epoch [2/7], Step [70/151], Loss: 2.1115
+Epoch [2/7], Step [80/151], Loss: 1.6518
+Epoch [2/7], Step [90/151], Loss: 2.0752
+Epoch [2/7], Step [100/151], Loss: 1.6214
+Epoch [2/7], Step [110/151], Loss: 1.7944
+Epoch [2/7], Step [120/151], Loss: 1.6686
+Epoch [2/7], Step [130/151], Loss: 1.7299
+Epoch [2/7], Step [140/151], Loss: 1.8661
+Epoch [2/7], Step [150/151], Loss: 2.2973
+Total time for epoch 2/7 = 169.215128 seconds
+The average of the epoch train time so far is 169.215128
+The stdev of the epoch train time so far is 0.0
+Start validation
+Validation accuracy is 20.7686699302156%
+Start training
+Epoch [3/7], Step [10/151], Loss: 2.1547
+Epoch [3/7], Step [20/151], Loss: 1.9234
+Epoch [3/7], Step [30/151], Loss: 1.6395
+Epoch [3/7], Step [40/151], Loss: 1.7748
+Epoch [3/7], Step [50/151], Loss: 1.8026
+Epoch [3/7], Step [60/151], Loss: 1.5630
+Epoch [3/7], Step [70/151], Loss: 2.0220
+Epoch [3/7], Step [80/151], Loss: 1.5016
+Epoch [3/7], Step [90/151], Loss: 2.1350
+Epoch [3/7], Step [100/151], Loss: 1.6189
+Epoch [3/7], Step [110/151], Loss: 1.6732
+Epoch [3/7], Step [120/151], Loss: 1.5861
+Epoch [3/7], Step [130/151], Loss: 1.6800
+Epoch [3/7], Step [140/151], Loss: 1.7291
+Epoch [3/7], Step [150/151], Loss: 2.1425
+Total time for epoch 3/7 = 162.305426 seconds
+The average of the epoch train time so far is 165.760277
+The stdev of the epoch train time so far is 3.454850999999991
+Start validation
+Validation accuracy is 20.2270596812832%
+Start training
+Epoch [4/7], Step [10/151], Loss: 2.0295
+Epoch [4/7], Step [20/151], Loss: 1.8626
+Epoch [4/7], Step [30/151], Loss: 1.4811
+Epoch [4/7], Step [40/151], Loss: 1.6652
+Epoch [4/7], Step [50/151], Loss: 1.7586
+Epoch [4/7], Step [60/151], Loss: 1.4973
+Epoch [4/7], Step [70/151], Loss: 2.0137
+Epoch [4/7], Step [80/151], Loss: 1.4672
+Epoch [4/7], Step [90/151], Loss: 2.1278
+Epoch [4/7], Step [100/151], Loss: 1.6353
+Epoch [4/7], Step [110/151], Loss: 1.6836
+Epoch [4/7], Step [120/151], Loss: 1.6272
+Epoch [4/7], Step [130/151], Loss: 1.5828
+Epoch [4/7], Step [140/151], Loss: 1.6457
+Epoch [4/7], Step [150/151], Loss: 2.0466
+Total time for epoch 4/7 = 177.077584 seconds
+The average of the epoch train time so far is 169.53271266666667
+The stdev of the epoch train time so far is 6.034887903384081
+Start validation
+Validation accuracy is 19.602124778668887%
+Start training
+Epoch [5/7], Step [10/151], Loss: 1.8852
+Epoch [5/7], Step [20/151], Loss: 1.7872
+Epoch [5/7], Step [30/151], Loss: 1.3498
+Epoch [5/7], Step [40/151], Loss: 1.6824
+Epoch [5/7], Step [50/151], Loss: 1.7545
+Epoch [5/7], Step [60/151], Loss: 1.4753
+Epoch [5/7], Step [70/151], Loss: 1.9204
+Epoch [5/7], Step [80/151], Loss: 1.4121
+Epoch [5/7], Step [90/151], Loss: 2.0574
+Epoch [5/7], Step [100/151], Loss: 1.6729
+Epoch [5/7], Step [110/151], Loss: 1.7284
+Epoch [5/7], Step [120/151], Loss: 1.5545
+Epoch [5/7], Step [130/151], Loss: 1.5441
+Epoch [5/7], Step [140/151], Loss: 1.5512
+Epoch [5/7], Step [150/151], Loss: 1.9619
+Total time for epoch 5/7 = 173.866977 seconds
+The average of the epoch train time so far is 170.61627875
+The stdev of the epoch train time so far is 5.5531297819931815
+Start validation
+Validation accuracy is 21.27903343401729%
+Start training
+Epoch [6/7], Step [10/151], Loss: 1.7552
+Epoch [6/7], Step [20/151], Loss: 1.6676
+Epoch [6/7], Step [30/151], Loss: 1.3270
+Epoch [6/7], Step [40/151], Loss: 1.5917
+Epoch [6/7], Step [50/151], Loss: 1.6201
+Epoch [6/7], Step [60/151], Loss: 1.3898
+Epoch [6/7], Step [70/151], Loss: 1.8865
+Epoch [6/7], Step [80/151], Loss: 1.3368
+Epoch [6/7], Step [90/151], Loss: 1.8844
+Epoch [6/7], Step [100/151], Loss: 1.6605
+Epoch [6/7], Step [110/151], Loss: 1.7001
+Epoch [6/7], Step [120/151], Loss: 1.4409
+Epoch [6/7], Step [130/151], Loss: 1.5014
+Epoch [6/7], Step [140/151], Loss: 1.4551
+Epoch [6/7], Step [150/151], Loss: 1.8759
+Total time for epoch 6/7 = 174.93617 seconds
+The average of the epoch train time so far is 171.480257
+The stdev of the epoch train time so far is 5.258862421324594
+Start validation
+Validation accuracy is 21.435267159670868%
+Start training
+Epoch [7/7], Step [10/151], Loss: 1.5897
+Epoch [7/7], Step [20/151], Loss: 1.5923
+Epoch [7/7], Step [30/151], Loss: 1.3368
+Epoch [7/7], Step [40/151], Loss: 1.5200
+Epoch [7/7], Step [50/151], Loss: 1.5049
+Epoch [7/7], Step [60/151], Loss: 1.3370
+Epoch [7/7], Step [70/151], Loss: 1.9051
+Epoch [7/7], Step [80/151], Loss: 1.2410
+Epoch [7/7], Step [90/151], Loss: 1.7742
+Epoch [7/7], Step [100/151], Loss: 1.5226
+Epoch [7/7], Step [110/151], Loss: 1.6465
+Epoch [7/7], Step [120/151], Loss: 1.4580
+Epoch [7/7], Step [130/151], Loss: 1.3186
+Epoch [7/7], Step [140/151], Loss: 1.4015
+Epoch [7/7], Step [150/151], Loss: 1.9158
+Total time for epoch 7/7 = 177.176981 seconds
+The average of the epoch train time so far is 172.429711
+The stdev of the epoch train time so far is 5.2491595640886475
+Start validation
+Validation accuracy is 21.643578793875637%
